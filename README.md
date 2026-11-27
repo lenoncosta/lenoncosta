@@ -83,7 +83,6 @@ Exercícios de conteinerização e execução de aplicações:
 
 - **Databricks AI Fundamentals** — badge de fundamentos em Inteligência Artificial.
 
-
 ## Formação
 
 - **Tecnólogo em Banco de Dados** — UNINOVE, 2022.
