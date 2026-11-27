@@ -53,15 +53,6 @@ Laboratórios com serviços Azure para experimentar recursos de dados e IA.
 
 **Escopo:** atividades de aprendizagem e experimentação, não soluções declaradas como implantadas em produção.
 
-### [APIs e projetos com Docker](https://github.com/lenoncosta/Docker-projectos)
-
-Exercícios de conteinerização e execução de aplicações:
-
-- API em Python com FastAPI e Uvicorn.
-- Serviço HTTP desenvolvido em Go.
-- Construção de imagens e execução de containers Docker.
-- Exemplo de build multi-stage.
-
 ### [Trilha de estudos em Python](https://github.com/lenoncosta/trilha-python-dio)
 
 Repositório de exercícios organizados para consolidar fundamentos da linguagem:
@@ -70,6 +61,15 @@ Repositório de exercícios organizados para consolidar fundamentos da linguagem
 - Estruturas condicionais e repetição.
 - Listas, tuplas, conjuntos e dicionários.
 - Funções e programação orientada a objetos.
+
+### [APIs e projetos com Docker](https://github.com/lenoncosta/Docker-projectos)
+
+Exercícios de conteinerização e execução de aplicações:
+
+- API em Python com FastAPI e Uvicorn.
+- Serviço HTTP desenvolvido em Go.
+- Construção de imagens e execução de containers Docker.
+- Exemplo de build multi-stage.
 
 ## Certificações e badges
 
@@ -83,12 +83,6 @@ Repositório de exercícios organizados para consolidar fundamentos da linguagem
 
 - **Databricks AI Fundamentals** — badge de fundamentos em Inteligência Artificial.
 
-<p>
-  <img src="https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="AZ-900" />
-  <img src="https://img.shields.io/badge/DP--900-Data%20Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="DP-900" />
-  <img src="https://img.shields.io/badge/SC--900-Security%20Fundamentals-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="SC-900" />
-  <img src="https://img.shields.io/badge/Databricks-AI%20Fundamentals-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks AI Fundamentals" />
-</p>
 
 ## Formação
 
