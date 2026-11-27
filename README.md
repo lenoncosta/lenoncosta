@@ -1,24 +1,27 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/lenoncosta/mdc-repo/main/profile-banner.svg" alt="Lenon Costa — Dados, Python, SQL e Cloud" width="100%" />
-  <h1>Olá, eu sou Lenon Costa</h1>
-  <h3>Profissional de Tecnologia em transição para Engenharia de Dados</h3>
-  <p>
-    <a href="https://github.com/lenoncosta">GitHub</a> ·
-    <a href="https://www.linkedin.com/in/lenon-costa-analista-de-infraestrutura/">LinkedIn</a>
-  </p>
+
+  # Lenon Costa
+
+  **Tecnologia da Informação | Direcionamento para Engenharia de Dados**
+
+  Python · SQL · Banco de Dados · Microsoft Azure · Databricks
+
+  <a href="https://www.linkedin.com/in/lenon-costa-analista-de-infraestrutura/">LinkedIn</a> ·
+  <a href="https://github.com/lenoncosta?tab=repositories">Repositórios</a>
 </div>
 
 ---
 
 ## Sobre mim
 
-Sou profissional de Tecnologia da Informação, Técnico em Informática e formado como Tecnólogo em Banco de Dados. Tenho trajetória anterior em infraestrutura, suporte e ambientes de cloud e, atualmente, estou direcionando minha carreira para **Engenharia de Dados**.
+Sou Técnico em Informática e Tecnólogo em Banco de Dados. Minha trajetória em TI inclui atuação anterior com infraestrutura, suporte e ambientes de cloud. Atualmente, estou direcionando meu desenvolvimento profissional para **Engenharia de Dados**.
 
-Meu foco de desenvolvimento está em Python, SQL, bancos de dados, serviços em nuvem e construção de fluxos de ingestão e transformação de dados. Utilizo este GitHub para documentar estudos, registrar laboratórios e apresentar projetos práticos.
+Tenho trabalhado na construção da minha base com Python, SQL, manipulação de dados e serviços de nuvem. Uso este espaço para documentar estudos, organizar laboratórios e compartilhar projetos que demonstrem minha evolução técnica.
 
-## Tecnologias e ferramentas
+## Tecnologias e conhecimentos
 
-**Estudos e práticas:**
+**Prática em estudos e projetos**
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -28,34 +31,45 @@ Meu foco de desenvolvimento está em Python, SQL, bancos de dados, serviços em 
   <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-**Em aprofundamento:** Databricks, Apache Spark/PySpark, pipelines de dados, processos ETL/ELT e arquiteturas de dados em cloud.
+**Em aprofundamento**
 
-> Os itens acima representam tecnologias utilizadas em estudos, laboratórios ou projetos pessoais. A presença de uma tecnologia nesta lista não significa, por si só, domínio avançado ou experiência profissional com ela.
+Databricks · Apache Spark/PySpark · Engenharia de Dados · pipelines de dados · ETL/ELT · arquiteturas de dados em cloud.
 
-## Projetos em destaque
+> Esta lista diferencia ferramentas utilizadas em estudos e projetos dos assuntos que ainda estou aprofundando. Ela não representa domínio avançado de todas as tecnologias.
 
-### 1. Laboratórios de Dados, IA e Machine Learning no Azure
+## Projetos selecionados
 
-Repositório com exercícios práticos envolvendo Azure Machine Learning, Azure AI Search, Azure AI Language, Azure AI Vision e Blob Storage. Inclui experimentos de AutoML, análise de sentimentos, indexação de documentos e OCR.
+### [Laboratórios de Dados, IA e Machine Learning no Azure](https://github.com/lenoncosta/-Trabalhando-com-Machine-Learning-na-Pr-tica-no-Azure-ML)
 
-**Contexto:** laboratórios de aprendizagem e experimentação, não soluções declaradas como implantadas em produção.
+Laboratórios com serviços Azure para experimentar recursos de dados e IA.
 
-[**Acessar repositório →**](https://github.com/lenoncosta/-Trabalhando-com-Machine-Learning-na-Pr-tica-no-Azure-ML)
+- Azure Machine Learning e experimentos com AutoML.
+- Azure AI Search e indexação de documentos.
+- Azure AI Language para análise de sentimentos.
+- Azure AI Vision e OCR.
+- Azure Blob Storage para armazenamento de arquivos.
 
-### 2. APIs e projetos com Docker
+**Escopo:** atividades de aprendizagem e experimentação, não soluções declaradas como implantadas em produção.
 
-Estudos de conteinerização com uma API em Python/FastAPI e um serviço HTTP em Go. O repositório inclui Dockerfiles, execução de containers e exemplo de build multi-stage.
+### [APIs e projetos com Docker](https://github.com/lenoncosta/Docker-projectos)
 
-[**Acessar repositório →**](https://github.com/lenoncosta/Docker-projectos)
+Exercícios de conteinerização e execução de aplicações:
 
-### 3. Trilha de estudos em Python
+- API em Python com FastAPI e Uvicorn.
+- Serviço HTTP desenvolvido em Go.
+- Construção de imagens e execução de containers Docker.
+- Exemplo de build multi-stage.
 
-Exercícios organizados sobre fundamentos da linguagem, estruturas de dados e programação orientada a objetos. O repositório documenta a consolidação da base de programação.
+### [Trilha de estudos em Python](https://github.com/lenoncosta/trilha-python-dio)
 
-[**Acessar repositório →**](https://github.com/lenoncosta/trilha-python-dio)
+Repositório de exercícios organizados para consolidar fundamentos da linguagem:
+
+- Variáveis, tipos de dados e operadores.
+- Estruturas condicionais e repetição.
+- Listas, tuplas, conjuntos e dicionários.
+- Funções e programação orientada a objetos.
 
 ## Certificações e badges
 
@@ -70,28 +84,28 @@ Exercícios organizados sobre fundamentos da linguagem, estruturas de dados e pr
 - **Databricks AI Fundamentals** — badge de fundamentos em Inteligência Artificial.
 
 <p>
-  <img src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft AZ-900" />
-  <img src="https://img.shields.io/badge/Microsoft-DP--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft DP-900" />
-  <img src="https://img.shields.io/badge/Microsoft-SC--900-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft SC-900" />
-  <img src="https://img.shields.io/badge/Databricks-AI%20Fundamentals-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks AI Fundamentals badge" />
+  <img src="https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="AZ-900" />
+  <img src="https://img.shields.io/badge/DP--900-Data%20Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="DP-900" />
+  <img src="https://img.shields.io/badge/SC--900-Security%20Fundamentals-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="SC-900" />
+  <img src="https://img.shields.io/badge/Databricks-AI%20Fundamentals-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks AI Fundamentals" />
 </p>
 
-## Formação acadêmica
+## Formação
 
-- **Tecnólogo em Banco de Dados** — UNINOVE.
-- **Técnico em Informática** — SENAC.
+- **Tecnólogo em Banco de Dados** — UNINOVE, 2022.
+- **Técnico em Informática** — SENAC, 2018.
 
-## Atualmente estudando
+## Estudos em andamento
 
-- Aplicação de Python e SQL em problemas de dados.
+- Python e SQL aplicados à resolução de problemas com dados.
 - Manipulação, preparação e análise de dados com bibliotecas Python.
-- Conceitos de Engenharia de Dados e construção de pipelines ETL/ELT.
-- Databricks e fundamentos de processamento distribuído com Spark/PySpark.
+- Fundamentos de Engenharia de Dados e processos ETL/ELT.
+- Databricks e processamento distribuído com Apache Spark/PySpark.
 - Serviços de dados e soluções em nuvem.
 
 ## Objetivo profissional
 
-Busco uma oportunidade para atuar e evoluir na área de **Engenharia de Dados**, contribuindo com programação, bancos de dados, automação e tecnologias cloud, enquanto amplio minha experiência prática com pipelines e plataformas de dados.
+Busco uma oportunidade para iniciar ou consolidar minha atuação em **Engenharia de Dados**, contribuindo com minha formação em banco de dados, conhecimentos de programação e experiência anterior em tecnologia, enquanto amplio minha prática com pipelines e plataformas de dados.
 
 ## Contato
 
@@ -101,5 +115,5 @@ Busco uma oportunidade para atuar e evoluir na área de **Engenharia de Dados**,
 ---
 
 <div align="center">
-  <sub>Estudos documentados, projetos práticos e evolução contínua em Engenharia de Dados.</sub>
+  <sub>Conhecimento em construção, prática documentada e evolução contínua em Engenharia de Dados.</sub>
 </div>
